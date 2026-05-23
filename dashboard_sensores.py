@@ -4,6 +4,7 @@ import tkinter as tk
 from dataclasses import dataclass, field
 
 
+
 @dataclass
 class SensorConfig:
     nombre: str
